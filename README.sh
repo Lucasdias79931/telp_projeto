@@ -1,4 +1,4 @@
-- Entrega & apresentação: 23/05 - Em PDF ou colab e apresentão oral - 20 minutos
+- Entrega & apresentação: 30/05 - Em PDF ou colab e apresentão oral - 20 minutos
 
 # - Definir um conjunto de métricas (seu critério) para avaliar a "saúde" de um repositório.
 
