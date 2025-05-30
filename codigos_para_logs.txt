@@ -1,0 +1,7 @@
+Código para extrair histórico de commits 
+git log --pretty=format:"%h,%cd" --date=format:"%d/%m/%Y" > ../<nome>.csv
+
+
+código para mostrar quem mais commitou
+
+git shortlog -sn
